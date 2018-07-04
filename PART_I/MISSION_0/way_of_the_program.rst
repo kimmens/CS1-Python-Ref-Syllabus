@@ -1,4 +1,4 @@
-THE way of the program
+The way of the program
 ======================
 
 The goal of this book is to teach you to think like a computer scientist. This
