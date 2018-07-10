@@ -43,7 +43,10 @@ run on different kinds of computers with few or no modifications.
 The engine that translates and runs Python is called the **Python Interpreter**: 
 There are two ways to use it: *immediate mode* and *script
 mode*. In immediate mode, you type Python expressions into the Python Interpreter window, 
-and the interpreter immediately shows the result.
+and the interpreter immediately shows the result:
+
+.. image:: ../../illustrations/interpreter_sshot.png
+   :alt: Screen shot of interpreter
 
 The ``>>>`` is called the **Python prompt**. The interpreter uses the prompt to indicate that it is ready for
 instructions. We typed ``2 + 2``, and the interpreter evaluated our expression, and replied ``4``, 
@@ -62,7 +65,10 @@ For example, we created a file named ``firstprogram.py`` using PyScripter.
 By convention, files that contain Python programs have names that end with
 ``.py``
 
-To execute the program, we can click the **Run** button in PyScripter. 
+To execute the program, we can click the **Run** button in PyScripter:
+
+.. image:: ../../illustrations/my_first_program.png
+   :alt: first program screenshot 
 
 Most programs are more interesting than this one.
 
